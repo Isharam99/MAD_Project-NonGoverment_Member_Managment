@@ -1,0 +1,1 @@
+"Dayata Saviya" is a mobile app offering monthly cash assistance to low-income families and low-price transportation tickets for Nongovernment employees. Users register, submit required documents, and receive cash or reserve season tickets. Developed in Kotlin, it's a valuable solution for the economic crisis.
